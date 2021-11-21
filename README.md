@@ -37,6 +37,9 @@ Para startar o sistema HotelSantos, siga estas etapas:
 npm start
 ```
 
+Caso você deseje o executavel do projeto, ele se encontra no repositorio -> 
+https://github.com/trvicius/Hotel-Santos-Electron
+
 ## 📫 Contribuindo para o projeto
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
 Para contribuir com o projeto, siga estas etapas:
