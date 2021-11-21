@@ -1,0 +1,22 @@
+{
+  "name": "hotel-santos-electron",
+  "version": "1.0.0",
+  "description": "Hotel Santos PIM 4 Semestre",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/trvicius/Hotel-Santos-Electron-Codigo",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "devDependencies": {
+    "electron": "^15.3.0",
+    "electron-packager": "^15.4.0"
+  }
+}
